@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: mobi.riemer
+---
+testFramework: spock
+sourceLanguage: java
